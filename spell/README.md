@@ -1,1 +1,1 @@
-Implementation of Spell for use with Bloodhound.
+Implementation of Spell for use with bluetick.
